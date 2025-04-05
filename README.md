@@ -14,7 +14,7 @@
 - 🛠️ **Currently working on:**  
   - <a href="https://dankalert.xyz/">Dank Alert</a> – A bot that keeps Dank Memer players updated with global boosts, scratch rewards, and fishing events, along with other useful features to improve their gaming experience
  
-   - <a href="/Auto-ReactionBot">Auto ReactionBot</a> – This bot automatically reacts to messages in your Telegram group, allowing you to customize reactions for specific word (even user mention)
+   - <a href="https://github.com/BrainlessDip/Auto-ReactionBot">Auto ReactionBot</a> – This bot automatically reacts to messages in your Telegram group, allowing you to customize reactions for specific word (even user mention)
 
 - 📚 **Currently learning:**  
   - Getting even better at <b>Python</b>  
