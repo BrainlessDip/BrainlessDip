@@ -1,30 +1,61 @@
-## Hi there, I'm Brainless Dip! 👋
+<h3 align="center">Hey there, I'm Brainless Dip! 👋</h3>
 
-> **A developer on a quest to find his brain | Always learning and evolving**
+<p align="center">
+  <a href="https://discord.com/users/833972562210979891">
+    <img src="https://lanyard-profile-readme.vercel.app/api/833972562210979891?theme=dark&bg=1E1E1E&borderRadius=15px&hideDiscrim=true&idleMessage=Probably%20coding%20or%20lost%20in%20music..." />
+  </a>
+</p>
 
+---
 
-- 🔭 **Currently working on:** [Dank Alert](https://dankalert.xyz/)  
-  Dank Alert is an advanced dank memer assistant bot designed to provide notifications regarding global boosts, scratch rewards, and fishing events directly to your server
+## 🏆 About Me  
+<blockquote>"A developer on a mission to figure things out, one bug at a time."</blockquote>
 
-- 🌱 **Currently learning:** **Python**  
-  Eagerly exploring Python and preparing to dive into **JavaScript** to broaden my programming horizons.
+- 🛠️ **Currently working on:**  
+  - <a href="https://dankalert.xyz/">Dank Alert</a> – A bot that keeps Dank Memer players updated with global boosts, scratch rewards, and fishing events, along with other useful features to improve their gaming experience
+ 
+   - <a href="/Auto-ReactionBot">Auto ReactionBot</a> – This bot automatically reacts to messages in your Telegram group, allowing you to customize reactions for specific word (even user mention)
 
-- 🤔 **Seeking help with:** **Enhancing my Python skills**  
-  If you have tips, resources, or advice on Python, I'd love to hear from you!
+- 📚 **Currently learning:**  
+  - Getting even better at <b>Python</b>  
+  - Planning to dive into <b>JavaScript</b> soon  
 
-- 💬 **Feel free to ask me about:**  
-  - **How to code in mobile**  
-  - **Bot development for Discord and Telegram**  
-  - **General programming tips and tricks**
+- 🤝 **Need help with:**  
+  - Improving my <b>backend skills</b>  
+  - Making my code more efficient  
 
-- 📫 **Connect with me:**  
-  [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/dipdey) [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/dipdey) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/brainless.dip) [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dipdey993@gmail.com)
+---
 
-- 😄 **Pronouns:** **he/him**
+## 💡 What I Can Help With  
+- 📱 <b>Coding on mobile</b> – Yes, I don't use a PC!  
+- 🤖 <b>Making Discord & Telegram bots</b>  
+- 🚀 <b>Backend development & general programming tips</b>  
 
-- ⚡ **Fun fact:** I code exclusively on mobile — no desktop or laptop here! My mobile setup allows me to be agile and adaptable wherever I am.
+---
 
-- 🎯 **Future goal:** **Back-end development**  
-  I aim to deepen my knowledge in back-end technologies and contribute to robust, scalable applications.
+## 📬 Let's Connect!  
+<p>
+  <a href="https://discord.com/users/dipdey">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://t.me/dipdey">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/brainless.dip">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:dipdey993@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Feel free to explore my repositories, check out my projects, and don't hesitate to reach out if you'd like to discuss anything tech-related. I'm always open to new ideas and connections!
+---
+
+## 🎯 Fun Facts  
+- 😄 <b>Pronouns:</b> He/Him  
+- 💻 <b>I code on my phone</b> – No laptop, no PC, just mobile!  
+- 🎯 <b>Future Goal:</b> Master backend development and build <b>scalable apps</b>  
+
+---
+
+🚀 Feel free to check out my repos, drop me a message, or just say hi! Always open to new ideas and discussions.  
