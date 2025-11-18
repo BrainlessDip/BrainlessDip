@@ -8,7 +8,7 @@
 
 ## 🏆 About Me
 
-<blockquote>"A developer on a mission to figure things out, one bug at a time"</blockquote>
+<blockquote>Hey, I'm Dip Dey — a curious guy who wants to learn everything this world has to offer. Learning web development right now and exploring new things every day. Alongside programming, I'm also interested in music. I enjoy exploring new genres whenever I can</blockquote>
 
 - 🛠️ **Currently working on:**
 
