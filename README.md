@@ -1,9 +1,7 @@
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Dip+Dey!;You+can+call+me+Brainless+Dip;Backend+Developer+in+Progress;Discord+Bot+Developer;Learning+JavaScript+and+Frontend;I+love+building+automations;Always+learning+new+stuff;Turning+ideas+into+projects;Loves+clean+and+minimal+design;Breaking+things+to+fix+them+better;Python+enthusiast&center=true" />
    <br>
-  <a href="https://discord.com/users/833972562210979891">
-    <img src="https://lanyard-profile-readme.vercel.app/api/833972562210979891?theme=dark&bg=1E1E1E&borderRadius=15px&hideDiscrim=true&idleMessage=Probably%20coding%20or%20lost%20in%20music..." />
-  </a>
+   <img src='https://i.ibb.co.com/4nxT5hLC/IMG-20251119-093940.png'>
 </p>
 
 ## 🏆 About Me
