@@ -6,7 +6,7 @@
 
 ## 🏆 About Me
 
-<blockquote>Hey, I’m Dip Dey. I love figuring things out and building stuff that actually works. Learning web development right now and exploring new things every day</blockquote>
+<blockquote>Hey, I’m Dip Dey. I love figuring things out and building stuff that actually works. I’m developing web projects and exploring new ideas every day</blockquote>
 
 - 🛠️ **Currently working on:**
 
