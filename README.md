@@ -6,7 +6,7 @@
 
 ## 🏆 About Me
 
-<blockquote>Hey, I'm Dip Dey — a curious guy who wants to learn everything this world has to offer. Learning web development right now and exploring new things every day. Alongside programming, I'm also interested in music. I enjoy exploring new genres whenever I can</blockquote>
+<blockquote>Hey, I’m Dip Dey. I love figuring things out and building stuff that actually works. Learning web development right now and exploring new things every day</blockquote>
 
 - 🛠️ **Currently working on:**
 
